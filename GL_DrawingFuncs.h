@@ -12,7 +12,7 @@ using namespace std;
 //double convertRadiansToDegrees(double radians);
 double convertDegreesToRadians(double degrees);
 
-// colors
+//  colors
 //GLfloat[] RGB(byte red, byte green, byte blue);
 
 // FUNCTIONS TO DRAW A CIRCLE
