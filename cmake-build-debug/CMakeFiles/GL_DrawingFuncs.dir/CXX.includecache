@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fernando9825/CLionProjects/OpenGL/GL_DrawingFuncs/GL_DrawingFuncs.cpp
+GL_DrawingFuncs.h
+/home/fernando9825/CLionProjects/OpenGL/GL_DrawingFuncs/GL_DrawingFuncs.h
+
+/home/fernando9825/CLionProjects/OpenGL/GL_DrawingFuncs/GL_DrawingFuncs.h
+iostream
+-
+GL/gl.h
+-
+cmath
+-
+cstddef
+-
+array
+-
+
